@@ -1,6 +1,4 @@
-# Furniture Store
-
-## Demo video
+# Spectro Furniture Store
 
 https://github.com/user-attachments/assets/47bb0e7b-9171-4120-9cd4-a13c777bcbfb
 
