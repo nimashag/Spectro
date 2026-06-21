@@ -1,5 +1,9 @@
 # Furniture Store
 
+## Demo video
+
+https://github.com/user-attachments/assets/47bb0e7b-9171-4120-9cd4-a13c777bcbfb
+
 ## How to Run Project
 
 Install Redux DevTools Chrome Extension (https://chromewebstore.google.com/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd) on your Chrome browser.
